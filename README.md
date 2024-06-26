@@ -1,3 +1,7 @@
+# fork by akira2390
+this fork aims to make the maschine mk3 version of qkontrol. Don't know how it turns out but I'll figure it out someway. 
+
+# original readme.md
 qKontrol is a Linux / macOS application to configure Native Instruments Komplete Kontrol MK2 keyboards.
 
 With this software it is possible to configure MIDI CCs assigned to all knobs, buttons, sliders, wheels and pedals, to split the keyboard into zones and to display assignments, CC values and custom images on the two displays. Furthermore, it offers a possibility to communicate with Bitwig Studio (incl. the Linux version) and maybe other DAWs the start and stop playback and recording, to turn on and of looping and the metronome and to fetch and display information about the currently selected track and plugin names as well as the song position.
