@@ -1,6 +1,9 @@
 # fork by akira2390
 this fork aims to make the maschine mk3 version of qkontrol. Don't know how it turns out but I'll figure it out someway. 
 
+# Real-time Progress
+https://zenn.dev/akira2390/scraps/5ef0f6b0905c79
+
 # original readme.md
 qKontrol is a Linux / macOS application to configure Native Instruments Komplete Kontrol MK2 keyboards.
 
